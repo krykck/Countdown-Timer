@@ -4,3 +4,4 @@ This project is just a classic countdown timer. The technologies used in this pr
 2. HTML 5
 3. CSS
 
+To use the timer visit: https://krykck.github.io/Countdown-Timer/
